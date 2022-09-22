@@ -1,0 +1,16 @@
+.putomono{
+    display: flex;
+}
+
+.separacionlista{
+    display: flex;
+}
+
+.ancho{
+    width: 470px;
+}
+
+.alineaizq{
+    text-align: left;
+}
+
